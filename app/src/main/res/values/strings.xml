@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">WilliamPozo-examen</string>
+
+    <string name="usurio">estudiante2020</string>
+
+    <string name="BotonIngresar">Ingresar</string>
+
+    <string name="solicitarnom">Nombre</string>
 </resources>
